@@ -2,10 +2,10 @@
 
 class Conexion {
   //Clase modelo para MariaDB
-  private $servidor = "sql302.epizy.com";
-  private $usuario = "epiz_28376393";
-  private $contrasena = "WbnuPIIhQtKdzbn";
-  private $based = "epiz_28376393_educar";
+  private $servidor = "localhost";
+  private $usuario = "root";
+  private $contrasena = "";
+  private $based = "educar";
   //private $usuario = "clinicav1_Veterinaria";
   //private $contrasena = "KGme.TFGJ;(B";
   //private $based = "clinicav1_Veterinaria";
